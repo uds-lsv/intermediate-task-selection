@@ -1,0 +1,2 @@
+
+. scripts/baseline.sh
